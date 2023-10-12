@@ -1,0 +1,15 @@
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/bin/Debug/net7.0/WordAdventure
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/bin/Debug/net7.0/WordAdventure.deps.json
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/bin/Debug/net7.0/WordAdventure.runtimeconfig.json
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/bin/Debug/net7.0/WordAdventure.dll
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/bin/Debug/net7.0/WordAdventure.pdb
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.csproj.AssemblyReference.cache
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.AssemblyInfoInputs.cache
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.AssemblyInfo.cs
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.csproj.CoreCompileInputs.cache
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.dll
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/refint/WordAdventure.dll
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.pdb
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/WordAdventure.genruntimeconfig.cache
+/Users/saralewis/Desktop/repos/WordAdventure/WordAdventure/obj/Debug/net7.0/ref/WordAdventure.dll
