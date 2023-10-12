@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{24056918-9ABE-4152-82CB-9EEC42B2F4B6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.WordAdventure FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordAdventure/Program.cs">
+    <Files>
+      <File FileName="WordAdventure/Program.cs" Line="34" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordAdventure">
+            <Node name="WordAdventure" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WordAdventure PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
